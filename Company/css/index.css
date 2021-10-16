@@ -1,0 +1,19 @@
+
+
+img{
+    width: 350px;
+    height: 400px;
+}
+.banner{
+    margin: 0 auto;
+}
+.banner>img{
+     height: 200px;
+     width: fit-content;
+}
+.companyName>a{
+    margin: 0 auto;
+}
+a{
+    text-align: center;
+}
